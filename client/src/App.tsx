@@ -1,10 +1,10 @@
 
 import { Toaster } from 'react-hot-toast';
 import { Route, Routes } from 'react-router-dom';
-import Login from './pages/login';
+import Login from './pages/Login';
 import AppLayout from './pages/AppLayout';
-import Home from './pages/home';
-import Products from './pages/products';
+import Home from './pages/Home';
+import Products from './pages/Products';
 import ProductPage from './pages/ProductPage';
 import SearchResults from './pages/SearchResults';
 import FlashDeals from './pages/FlashDeals';
